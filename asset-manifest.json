@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/perfume/static/css/main.b67067cb.css",
+    "main.js": "/perfume/static/js/main.5705603a.js",
+    "static/media/pic1.png": "/perfume/static/media/pic1.78b12638dc9752672586.png",
+    "static/media/pic2.png": "/perfume/static/media/pic2.18c635867dbde2727b08.png",
+    "static/media/perfume.svg": "/perfume/static/media/perfume.03d81b00f8ed969a34da5c4fe9f61c21.svg",
+    "static/media/arrow2.svg": "/perfume/static/media/arrow2.e3f2835e784cf56f7044a26acaa15cec.svg",
+    "static/media/arrow1.svg": "/perfume/static/media/arrow1.3e12fccb51dff16d354d1eca97d8328f.svg",
+    "static/media/logo.svg": "/perfume/static/media/logo.3112e72868ce13fbbbc48f61b71452fb.svg",
+    "static/media/box.svg": "/perfume/static/media/box.8ad54e5604764a672cc8c94fa1066e4e.svg",
+    "static/media/clock.svg": "/perfume/static/media/clock.8ae784b65bd8626cd09ce130d2a61b8e.svg",
+    "index.html": "/perfume/index.html",
+    "static/media/menu.svg": "/perfume/static/media/menu.4ec50574342e0b32d9801f2c873830df.svg",
+    "static/media/close.svg": "/perfume/static/media/close.9f1c0e0d6295493ee8af8fb195d6187b.svg",
+    "main.b67067cb.css.map": "/perfume/static/css/main.b67067cb.css.map",
+    "main.5705603a.js.map": "/perfume/static/js/main.5705603a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b67067cb.css",
+    "static/js/main.5705603a.js"
+  ]
+}
