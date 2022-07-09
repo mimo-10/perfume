@@ -1,0 +1,20 @@
+.footer {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    box-shadow: 5px 5px var(--color-main);
+    width: calc(100% - 26rem);
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .footer {
+        flex-direction: column;
+        width: calc(100% - 4rem);
+        gap: 2rem;
+        margin-top: 0;
+    }
+}

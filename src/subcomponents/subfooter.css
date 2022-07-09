@@ -1,0 +1,36 @@
+.sub-footer {
+    display: flex;
+    background-color: white;
+    align-items: center;
+    gap: 1rem;
+    padding: .5rem;
+    justify-content: center;
+}
+
+
+.icon {
+    width: fit-content;
+    height: fit-content;
+    box-shadow: 3px 3px var(--text-color-main);
+    padding: 2rem;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub-info {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+}
+
+.sub-info h1 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+.sub-info p {
+    margin: 0;
+}
+

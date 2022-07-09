@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100;300;400;500&display=swap');
+
+:root {
+    --color-main: #B1404B;
+    --color-alt: #FFEFC9;
+    --text-color-main: #1E1E1E;
+    --margin-sm: 2rem;
+    --margin-lg: 2rem 13rem;
+}
+body {
+    background-color: var(--color-alt);
+    margin: 0;
+    font-family: 'Arima', cursive;
+}
+
+
+.container {
+    margin: var(--margin-lg);
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .container {
+        margin: var(--margin-sm);
+    }
+}
